@@ -10,28 +10,24 @@
 <?php
 $dssanpham = [];
 $dssanpham[] = [
-    "name" => "Đồng hồ Led",
-    "price" => 1990000,
-    "describe" => "Công nghệ màn hình: TFT-LCD
-                       Kích thước màn hình (inch): 1,4 inch
-                       Độ phân giải: 360 x 360
-                       Chất liệu mặt kính: Kính cường lực Gorilla Class 3
-                       Đường kính mặt (mm): 3.3cm",
+    "name" => "Redmi Note 10 5G",
+    "price" => 19900000,
+    "describe" => "smartphone được trang bị 5G tốc độ cao có mức khá cạnh tranh hiện nay, 
+    bên cạnh đó Redmi Note 10 5G còn sở hữu cho mình hiệu suất vượt trội từ con  chip MediaTek Dimensity .",
     "supplier_name"=> "Aplle"
 ];
 $dssanpham[] = [
-    "name" => "Tivi Philips Led HD 32 Inch",
+    "name" => "Redmi Note 10S",
     "price" => 3190000,
-    "describe" => "Tivi Philips Led HD 32 Inch- 32PHT5583/74
-                        Hình ảnh/Hiển thị TV màn hình LED HD độ phân giải bảng 1366 x 768
-                        Tỉ lệ kích thước: 16:9
-                        Nâng cao hình ảnh: Pixel Plus HD, 200 PPI",
+    "describe" => " hỗ trợ sạc nhanh 33W và vi xử lý Helio G95 cũng mạnh mẽ không
+     3kém thì Redmi Note 10S còn có cho mình khả năng chống thấm IP53I",
     "supplier_name"=> "PHILIPS"
 ];
 $dssanpham[] = [
-    "name" => "Loa Karaoke Bluetooth Daile S8 Âm Thanh Cực Khủng",
+    "name" => "OPPO Reno2 cũ",
     "price" => 780000,
-    "describe" => "Loa Karaoke Bluetooth Daile S8 Âm Thanh Cực Khủng",
+    "describe" => "kích thước lớn lên đến 6.55 inch Sunlight AMOLED mới cho chất lượng hiển thị xuất sắc cùng màu sắc sinh động.
+    với cấu hình RAM lên đến 6 GB, cùng Chip Snapdragon 710, ",
     "supplier_name"=> "No Brand"
 ];
 ?>
