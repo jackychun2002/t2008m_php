@@ -14,16 +14,16 @@
     <div class="border-bottom p-2">
         <ul class="nav nav-pills nav-fill">
             <li class="nav-item">
-                <a class="nav-link " aria-current="page" href="listproduct.php">Danh sách sản phẩm</a>
+                <a class="nav-link " aria-current="page" href="ListProduct.php">Danh sách sản phẩm</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="newproduct.php">Thêm mới 1 sản phẩm</a>
+                <a class="nav-link active" href="Newproduct.php">Thêm mới 1 sản phẩm</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="editproduct.php">Sửa 1 sản phẩm</a>
+                <a class="nav-link" href="Editproduct.php">Sửa 1 sản phẩm</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="listcategory.php">Danh sách các thể loại</a>
+                <a class="nav-link" href="Listcategory.php">Danh sách các thể loại</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Thêm mới 1 thể loại</a>

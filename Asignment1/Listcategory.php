@@ -14,7 +14,7 @@
     <div class="border-bottom p-2">
         <ul class="nav nav-pills nav-fill">
             <li class="nav-item">
-                <a href="Listporduct.php" class="nav-link" aria-current="page">
+                <a href="ListProduct.php" class="nav-link" aria-current="page">
                     Danh Sách Sản Phẩm
                 </a>
             </li>
